@@ -94,18 +94,4 @@ The app auto-detects date columns, numeric columns, and tries to identify revenu
 
 ---
 
-## 🛠 Tech Stack
 
-- **Python 3.11+**
-- **Streamlit** — UI framework
-- **Pandas** — data wrangling
-- **Plotly** — interactive charts
-- **OpenAI Python SDK** — GPT integration
-
----
-
-## 📝 Notes
-
-- GPT features require an OpenAI account with API credits.
-- The AI summary and email generator use `gpt-4o-mini` for cost efficiency.
-- No data is sent anywhere except directly to OpenAI when you click the generate buttons.
